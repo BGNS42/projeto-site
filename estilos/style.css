@@ -17,3 +17,7 @@ main {
 img.lado {
     float: right;
 }
+
+.botaoProx {
+    justify-content: center;
+}
